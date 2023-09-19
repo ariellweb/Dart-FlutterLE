@@ -1,0 +1,8 @@
+Session4 Contents Learned : 
+-how are we getting out the max number with for loop when we have list
+-learning about indexof property
+-concept of function
+-how the function looks like
+-how we can put values into functions
+
+//@itsarieldesign

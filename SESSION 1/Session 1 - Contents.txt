@@ -1,0 +1,9 @@
+Session1 Contents Learned : 
+-flow of excecutaion & variables types
+-Math operators (amal garha)
+-relational operator < >  >= <=   ==  !=
+-meaning of boolean variebls
+-writing terms with if
+-meaning of contorol flow 
+-typeinfrnce 
+-method of using : ${name of string}

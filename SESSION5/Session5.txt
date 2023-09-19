@@ -1,0 +1,8 @@
+Session5 Contents Learned : 
+-how we can give an input to the function 
+-concept returntype
+-learning of pow function
+-meaning of void function
+-list<int>arrays
+-review my old practice
+//@itsarieldesign  

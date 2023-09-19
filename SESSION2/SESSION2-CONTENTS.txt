@@ -1,0 +1,8 @@
+Session2 Contents Learned : 
+
+-meaning of loop
+-how many type of loop we have
+-learning while loop
+-make a infinite while loop into finite form
+-elseif concept
+-logical operator

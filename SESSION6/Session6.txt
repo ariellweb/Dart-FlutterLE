@@ -1,0 +1,7 @@
+Session6 Contents Learned : 
+-null variable
+-assertion ! operrator
+-conditional access ? operator
+-if null ?? operator
+-ternery ?: operator
+//@itsarieldesign  
