@@ -26,7 +26,7 @@ class car extends vehicle {
   @override
   void start() {
     super
-        .start(); //baes mishe ke az class pedar ham property biad pakesh konim nemiad
+        .start();
     print('lets start');
   }
 }
