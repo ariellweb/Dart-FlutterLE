@@ -1,0 +1,9 @@
+Session15 Contents Learned : 
+
+-meaning of function as argument
+-meaning of function as first class object
+-type of errores
+-how we can deal with errores(trye catch block)
+-sync concept
+-async concept
+-meaning of call back 
