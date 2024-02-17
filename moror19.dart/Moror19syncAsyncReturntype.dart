@@ -7,7 +7,7 @@ void main(List<String> args) async{
 Future<String?> getData() async{
   var delay = Duration(seconds: 3);
   String? result;
-  Future.delayed(delay, () {
+  await Future.delayed(delay, () {
     result = 'data:ariel height;170 weight:160';
   });
   return result;
